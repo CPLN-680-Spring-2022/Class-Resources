@@ -2,5 +2,5 @@
 
 - See `/slides` for presentations.
 - See `/resources` for all course documents.
-  - Including `/resources/syllabus.md`
+  - Including `/resources/syllabus.pdf`
 
