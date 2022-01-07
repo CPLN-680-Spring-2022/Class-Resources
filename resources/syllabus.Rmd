@@ -1,0 +1,103 @@
+---
+output: pdf_document
+---
+
+# MUSA Capstone: Advanced Topics in GIS
+## Course Syllabus
+
+### Details
+
+**Instructor**: Jonathan Tannen, jonathan.tannen@gmail.com  
+**When and Where**: Fridays, 8:30am - 11:30am
+
+### Description
+This course offers an opportunity to work closely with faculty, staff, classmates, and/or local practitioners on
+independent projects involving the development and/or application of geographic information systems (GIS).
+
+The course is organized as a seminar: a series of weekly meetings and concurrent assignments that ultimately
+lead to the implementation and presentation of student-initiated projects. Early in the semester, each student
+selects a term project dealing with one particular topic in the field of GIS, broadly defined. Topics may range
+from the basic development of geospatial tools and techniques to practical applications in any of a variety of
+fields.
+
+Class time will be a combination of structured collaboration, external speakers, and (possibly) lectures on relevant content.
+
+### Project Description
+The requirements for the final project are intentionally broad, as students are expected to develop one that suits their interests.
+
+Possible project formats include:
+- A research paper with GIS analysis about a substantive question.  
+- A research paper about GIS or spatial methodology.  
+- Construction of a GIS tool.  
+- A dashboard *answering a question*. (The dashboard cannot simply be a view of the data. It must be targeted towards a novel question.)
+
+For all projects, a complete set of data, scripts, and reports must be provided via GitHub or Google Drive. This should include the raw data, and all processinng and analysis.
+
+Students will present on their projects in the final two sessions of the class.
+
+### Project Timeline
+*This calendar is tentative. We will revisit it as we continue the semester.*
+
+| Date | Assignment Due | Class Time |
+|-|--|--|
+|Jan 14| Initial Topic Brainstorm | Introduction, Syllabus, Share Topics, Turnout Tracker Presentation |
+|Jan 21| Project Proposal 0 | Share Project Proposal, Better Engineering: Github |
+|Jan 28| GitHub Repo with initial data | Fay Walker Speaking, Better Engineering: File Organization |
+|Feb 4| Data Summary Analysis | Proposal & Data Summary Presentations A |
+|Feb 11|  | Better Engineering: System Modularity, Proposal & Data Summary Presentations B |
+|Feb 18|  |  |
+|Feb 25| Mid-point Work In Progress | Mid-point Presentations A |
+|March 4| Feedback for 2 peer projects | Mid-point Presentations B |
+|March 11| *Spring Break* |  |
+|March 18|  | Better Engineering: Code Review |
+|March 25| Peer Code Review |  |
+|April 1|  |  |
+|April 8|  |  |
+|April 15| Final Presentation (1) |  |
+|April 22| Final Presentation (2) |  |
+|April 29| *No Class*, Final Projects due | |
+
+### Office Hours
+Office hours will be by appointment. They can be in person or by video chat.
+
+Wednesdays from 6pm - 8pm [link forthcoming]()
+
+### Grading
+Final Project: 50%  
+Final Presentation: 25%  
+Class Participation & Preparation: 25%  
+
+### Assignments
+
+Assignments must be submitted by the time the class meets.
+
+**01-14 Initial Topic Brainstorm**: One-page document summarizing
+- your topic  
+- an open question in the topic to research  
+- format of your final deliverable  
+- possible data sources  
+*These will be considered tentative. The goal is to get you to start brainstorming.*
+
+**01-21 Project Proposal 0**: Two-page (or less) document with   
+- the question you will be answering  
+- datasets identified  
+- (brief) summary of existing relevant research  
+- high-level summary of methods and outputs  
+
+**01-28 GitHub Repo**: Share a GitHub repo for your project, with  
+- Raw data in a `raw_data/` directory.  
+- Any scripts, files, or cleaned data.  
+- A README file in the top directory.  
+
+**02-04 Data Summary Analysis**: An exploratory descriptive analysis of your dataset(s). Include summary statistics and visualizations that speak to your research question. All relevant code and files should be in your GitHub repo.
+
+**02-11 Project Proposal 1**: An update of Project Proposal 0, with motivating data summary. This may just be a concatenated version of your Proposal 0 and Data Analysis, but your question and deliverable may have changed.
+
+**02-25 Work in Progress Report**: A draft of your project, to be presented in class and reviewed by two peers. Provide as much analysis as you can, to be able to get proper feedback.
+
+**03-04 Peer Feedback**: Peer review of two projects. Review goals include: Project design, implementation review, extension ideas.
+
+**03-25 Code Review**: Code/implementation review of one peer project. We will discuss this in class.
+
+**04-29 Final Project**
+ 

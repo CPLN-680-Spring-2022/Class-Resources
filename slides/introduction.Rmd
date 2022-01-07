@@ -1,0 +1,160 @@
+---
+title: "MUSA Capstone Introduction"
+author: Jonathan Tannen
+output: 
+  beamer_presentation:
+    theme: "metropolis"
+    includes:
+      in_header: "preamble.tex"
+---
+
+## Welcome!
+- Intro 
+- Syllabus (30 min)
+- *10 minute break*
+- Breakouts (45 min)
+- *10 minute break*
+- Presentation: The Turnout Tracker (60 min)
+
+---
+
+## The Capstone Project
+The final project is an...
+
+- independent study
+- on a substantive question
+- using GIS data
+
+*I'm here to help, but ultimately you are responsible for driving and executing your project.*
+
+--- 
+
+## Possible project deliverables
+
+* Research paper on a topical question
+* Research paper on GIS methodology
+* Dashboard*
+* GIS tool
+
+---
+
+## Examples from past years
+* Spatial analysis of food safety violations in Philadelphia
+* Spatial methods for heritage preservation
+* Latitudinal shifts of grass plant functional types
+* Evaluating two-seat rides for SEPTA
+
+---
+
+## Project components
+* Final deliverable.
+* Presentation to the class.
+* Complete GitHub repository* with raw data, processed data, outputs.
+
+---
+
+## Course time
+* Working groups on projects
+* Student presentations
+* External speakers, "Anatomy of a project"
+* Lectures on Spatial Methods, Better Engineering for Researchers 
+
+---
+
+## A note on technical requirements
+
+My approach to programming is practical. 
+
+- You only ever need "good enough," and there will always be someone more expert.
+- You will see enormous gains (errors, iteration speed) by improving your engineering 20%.
+- Push yourself in reasonable directions for final project.
+
+---
+
+## A note on the calendar
+
+*This is the first time I'm teaching this course, so what follows may be tweaked based on how things go. I promise one week's notice before any changes.*
+
+---
+
+## A survey
+
+Do you plan on using...  
+- ESRI  
+- R  
+- Python    
+- Something else  
+
+---
+
+## A survey
+
+What is your familiarity with...  
+- Git & GitHub  
+- Command line  
+- Spatial Econometric methodologies (e.g. "autoregression")  
+
+---
+
+## A survey
+
+How confident are you in your idea for project?  
+1 - Not confident at all.  
+5 - I know exactly what I want to do.  
+
+---
+
+## Calendar
+
+| Date | Assignment Due (Tentative)|
+|-|--|
+|Jan 14| Initial Topic Brainstorm |
+|Jan 21| Project Proposal 0 |
+|Jan 28| GitHub Repo |
+|Feb 4| Data Summary Analysis, Presentations A |
+|Feb 11| Project Proposal 1, Presentations B | 
+|Feb 25| Mid-point Work In Progress Report, Presentations A |
+|March 4| Feedback for 2 peer projects. Presentations B |
+|March 11| *Spring Break* | 
+|March 25| Peer Code Review | 
+|April 15| Final Presentation (1) | 
+|April 22| Final Presentation (2) | 
+|April 29| *No Class*, Final Projects due |
+
+
+---
+
+## Details
+Office Hours: Wednesday 6-8pm, by appointment
+
+---
+
+## Grading
+- Final Project 50%
+- Final Presentation 25%
+- Assignments & Participation 25%
+
+--- 
+
+## Next Week
+- Due: Project Proposal 0
+- In class: GitHub
+
+---
+
+## Questions?
+
+
+---
+
+## Breakouts
+
+In groups of three...
+
+- 15 min: Overview your project
+- In 15 min, come back to this room.
+
+
+---
+
+
