@@ -40,8 +40,8 @@ Students will present on their projects in the final two sessions of the class.
 
 | Date | Assignment Due | Class Time |
 |-|--|---|
-|Jan 14| Initial Topic Brainstorm | Introduction, Syllabus, Share Topics, Turnout Tracker Presentation |
-|Jan 21| Project Proposal 0 | Share Project Proposal, Better Engineering: Github |
+|Jan 14 (Virtual)| Initial Topic Brainstorm | Introduction, Syllabus, Share Topics, Turnout Tracker Presentation |
+|Jan 21 (Virtual)| Project Proposal 0 | Share Project Proposal, Better Engineering: Github |
 |Jan 28| GitHub Repo with initial data | Fay Walker presenting, Better Engineering: File Organization |
 |Feb 4| Data Summary Analysis | Proposal & Data Summary Presentations A |
 |Feb 11| -- | Better Engineering: System Modularity, Proposal & Data Summary Presentations B, Michelle Montalvo and Seth Bluestein presenting |
