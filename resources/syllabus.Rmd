@@ -8,11 +8,16 @@ output: pdf_document
 ### Details
 
 **Instructor**: Jonathan Tannen, jonathan.tannen@gmail.com  
-**When and Where**: Fridays, 8:30am - 11:30am
+**When**: Fridays, 8:30am - 11:30am  
+**Where**: 407 Fisher-Bennet Hall  
+**Zoom (January 14 & 21)**:  
+- **Link**: https://upenn.zoom.us/j/97050641472?pwd=WGRSc0M2L0RWVmNhUmhRTE55czR6Zz09  
+- **Meeting ID**: 970 5064 1472  
+- **Passcode**: 942565  
+
 
 ### Description
-This course offers an opportunity to work closely with faculty, staff, classmates, and/or local practitioners on
-independent projects involving the development and/or application of geographic information systems (GIS).
+This course offers an opportunity to work on independent projects involving the development and/or application of geographic information systems (GIS).
 
 The course is organized as a seminar: a series of weekly meetings and concurrent assignments that ultimately
 lead to the implementation and presentation of student-initiated projects. Early in the semester, each student
@@ -25,7 +30,7 @@ Class time will be a combination of structured collaboration, external speakers,
 ### Project Description
 The requirements for the final project are intentionally broad, as students are expected to develop one that suits their interests.
 
-Possible project formats include:
+Possible project formats include:  
 - A research paper with GIS analysis about a substantive question.  
 - A research paper about GIS or spatial methodology.  
 - Construction of a GIS tool.  
@@ -39,14 +44,14 @@ Students will present on their projects in the final two sessions of the class.
 *This calendar is tentative. We will revisit it as we continue the semester.*
 
 | Date | Assignment Due | Class Time |
-|-|--|---|
+|-|---|-----|
 |Jan 14 (Virtual)| Initial Topic Brainstorm | Introduction, Syllabus, Share Topics, Turnout Tracker Presentation |
 |Jan 21 (Virtual)| Project Proposal 0 | Share Project Proposal, Better Engineering: Github |
-|Jan 28| GitHub Repo with initial data | Fay Walker presenting, Better Engineering: File Organization |
+|Jan 28| GitHub Repo with initial data | Fay Walker (Urban Institute) presenting, Better Engineering: File Organization |
 |Feb 4| Data Summary Analysis | Proposal & Data Summary Presentations A |
-|Feb 11| -- | Better Engineering: System Modularity, Proposal & Data Summary Presentations B, Michelle Montalvo and Seth Bluestein presenting |
-|Feb 18| --  | Dan Lopez Presenting |
-|Feb 25| Mid-point Work In Progress | Nick Hand Presenting, Mid-point Presentations A |
+|Feb 11| -- | Better Engineering: System Modularity, Proposal & Data Summary Presentations B, Michelle Montalvo and Seth Bluestein (Philadelphia City Commissioners Office) presenting |
+|Feb 18| --  | Dan Lopez (Office of Innovation and Technology) presenting |
+|Feb 25| Mid-point Work In Progress | Nick Hand (Office of the City Controller) presenting, Mid-point Presentations A |
 |Mar 4| Feedback for 2 peer projects | Mid-point Presentations B |
 |Mar 11| *Spring Break* |  |
 |Mar 18| -- | Better Engineering: Code Review |
@@ -60,7 +65,9 @@ Students will present on their projects in the final two sessions of the class.
 ### Office Hours
 Office hours will be by appointment. They can be in person or by video chat.
 
-Wednesdays from 6pm - 8pm [link forthcoming]()
+Wednesdays from 6pm - 8pm  
+Location TBD  
+Sign-up: https://calendly.com/jtannen/office-hours  
 
 ### Grading
 Final Project: 50%  
@@ -99,5 +106,5 @@ Assignments must be submitted by the time the class meets.
 
 **03-25 Code Review**: Code/implementation review of one peer project. We will discuss this in class.
 
-**04-29 Final Project**
+**04-29 (TBD) Final Project**
  
