@@ -36,7 +36,7 @@ Possible project formats include:
 - Construction of a GIS tool.  
 - A dashboard *answering a question*. (The dashboard cannot simply be a view of the data. It must be targeted towards a novel question.)
 
-For all projects, a complete set of data, scripts, and reports must be provided via GitHub or Google Drive. This should include the raw data, and all processinng and analysis.
+For all projects, a complete set of data, scripts, and reports must be provided via GitHub or Google Drive. This should include the raw data, and all processing and analysis.
 
 Students will present on their projects in the final two sessions of the class.
 
