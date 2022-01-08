@@ -3,6 +3,8 @@ output: pdf_document
 ---
 
 # MUSA Capstone: Advanced Topics in GIS
+## CPLN 680 / LARP 745
+
 ## Course Syllabus
 
 ### Details
@@ -26,6 +28,13 @@ from the basic development of geospatial tools and techniques to practical appli
 fields.
 
 Class time will be a combination of structured collaboration, external speakers, and (possibly) lectures on relevant content.
+
+### Course Resources
+The Course GitHub Repo will be the source of truth for the course.  
+https://github.com/CPLN-680-Spring-2022/Class-Resources  
+
+However, I've also created a Canvas page for email announcements and collection of assignments (if necessary).
+
 
 ### Project Description
 The requirements for the final project are intentionally broad, as students are expected to develop one that suits their interests.
@@ -76,9 +85,11 @@ Class Participation & Preparation: 25%
 
 ### Assignments
 
-Assignments must be submitted by the time the class meets.
+Assignments must be submitted by the time the class meets. 
+The first two assignments can be submitted on Canvas or by email. 
+Subsequent assignments should be uploaded to GitHub.  
 
-**01-14 Initial Topic Brainstorm**: One-page document summarizing
+**01-14 Initial Topic Brainstorm**: One-page (or less) document summarizing
 - your topic  
 - an open question in the topic to research  
 - format of your final deliverable  
