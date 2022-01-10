@@ -55,6 +55,18 @@ The final project is an...
 
 ---
 
+## GitHub
+
+This course will use GitHub as its primary site.  
+
+* https://github.com/CPLN-680-Spring-2022/Class-Resources
+* Final project submitted as a GitHub Repo.
+
+*This is my first time using GitHub to teach, so will be flexible.*
+
+
+---
+
 ## Course time
 * Working groups on projects
 * Student presentations
