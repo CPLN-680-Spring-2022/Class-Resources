@@ -30,7 +30,7 @@ fields.
 Class time will be a combination of structured collaboration, external speakers, and (possibly) lectures on relevant content.
 
 ### Course Resources
-The Course GitHub Repo will be the source of truth for the course.  
+The course's GitHub repo will be the source of truth for the course.  
 https://github.com/CPLN-680-Spring-2022/Class-Resources  
 
 However, I've also created a Canvas page for email announcements and collection of assignments (if necessary).

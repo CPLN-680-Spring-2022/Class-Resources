@@ -42,7 +42,9 @@ The final project is an...
 * Spatial analysis of food safety violations in Philadelphia
 * Spatial methods for heritage preservation
 * Latitudinal shifts of grass plant functional types
-* Evaluating two-seat rides for SEPTA
+* Evaluating two-seat rides for SEPTA  
+
+![](images/github_screenshot.jpg)
 
 ---
 
