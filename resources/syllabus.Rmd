@@ -89,12 +89,12 @@ Assignments must be submitted by the time the class meets.
 The first two assignments can be submitted on Canvas or by email. 
 Subsequent assignments should be uploaded to GitHub.  
 
-**01-14 Initial Topic Brainstorm**: One-page (or less) document summarizing
+**01-14 Initial Topic Brainstorm**: One-page (or less) document summarizing  
 - your topic  
 - an open question in the topic to research  
 - format of your final deliverable  
 - possible data sources  
-*These will be considered tentative. The goal is to get you to start brainstorming.*
+*These will be considered non-binding proposals. The goal is to get you to start brainstorming.*
 
 **01-21 Project Proposal 0**: Two-page (or less) document with   
 - the question you will be answering  
