@@ -85,12 +85,6 @@ My approach to programming is practical.
 
 ---
 
-## A note on the calendar
-
-*This is the first time I'm teaching this course, so what follows may be tweaked based on how things go. I promise one week's notice before any changes.*
-
----
-
 ## A survey
 
 Do you plan on using...  
@@ -108,6 +102,8 @@ What is your familiarity with...
 - Command line  
 - Spatial Econometric methodologies (e.g. "autoregression")  
 
+What other GIS topics would you like to learn?
+
 ---
 
 ## A survey
@@ -115,6 +111,14 @@ What is your familiarity with...
 How confident are you in your idea for project?  
 1 - Not confident at all.  
 5 - I know exactly what I want to do.  
+
+---
+
+## A note on the calendar
+
+The calendar is aggressive at the beginning to discover blockers.
+
+*NOTE: This is the first time I'm teaching this course, so what follows may be tweaked based on how things go. I promise one week's notice before any changes.*
 
 ---
 
@@ -138,8 +142,18 @@ How confident are you in your idea for project?
 
 ---
 
+## Assignments
+
+**syllabus.md** will be source of truth.
+
+TBD how to submit assignments; either GitHub, Canvas, or email.
+
+---
+
 ## Details
-Office Hours: Wednesday 6-8pm, by appointment
+
+Office Hours: Wednesday 6-8pm, by appointment  
+  
 Sign up on Calendly: https://calendly.com/jtannen/office-hours
 
 ---
@@ -167,9 +181,9 @@ Sign up on Calendly: https://calendly.com/jtannen/office-hours
 In groups of three...
 
 - 15 min: Overview your project
+  - What is the question you're trying to answer?
+  - What data sources are available?
+  - What is your most important next step?
 - In 15 min, come back to this room.
-
-
----
 
 
