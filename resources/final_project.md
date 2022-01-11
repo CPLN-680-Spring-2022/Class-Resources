@@ -70,4 +70,4 @@ The final project is worth 50% of the final grade, and the presentation another 
 You can find examples from past years here:  
 https://github.com/CPLN-680-Spring-2022/Class-Resources/tree/main/resources/examples
 
-*This document was adapted from Nick Hand's [generous example](https://github.com/MUSA-550-Fall-2021).*
+*This document was adapted from Nick Hand's [generous MUSA 550 example](https://github.com/MUSA-550-Fall-2021).*
