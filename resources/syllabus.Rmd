@@ -40,9 +40,10 @@ However, I've also created a Canvas page for email announcements and collection 
 The requirements for the final project are intentionally broad, as students are expected to develop one that suits their interests.
 
 Possible project formats include:  
-- A research paper with GIS analysis about a substantive question.  
-- A research paper about GIS or spatial methodology.  
-- Construction of a GIS tool.  
+
+- A research paper with GIS analysis about a substantive question.
+- A research paper about GIS or spatial methodology.
+- Construction of a GIS tool.
 - A dashboard *answering a question*. (The dashboard cannot simply be a view of the data. It must be targeted towards a novel question.)
 
 For all projects, a complete set of data, scripts, and reports must be provided via GitHub or Google Drive. This should include the raw data, and all processing and analysis.
@@ -89,18 +90,26 @@ Assignments must be submitted by the time the class meets.
 The first two assignments can be submitted on Canvas or by email. 
 Subsequent assignments should be uploaded to GitHub.  
 
-**01-14 Initial Topic Brainstorm**: One-page (or less) document summarizing  
-- your topic  
-- an open question in the topic to research  
-- format of your final deliverable  
-- possible data sources  
+**01-14 Initial Topic Brainstorm**: One-page (or less) document summarizing 
+
+- your topic
+- an open question in the topic to research
+- format of your final deliverable
+- possible data sources
+
 *These will be considered non-binding proposals. The goal is to get you to start brainstorming.*
 
 **01-21 Project Proposal 0**: Two-page (or less) document with   
-- the question you will be answering  
-- datasets identified  
-- (brief) summary of existing relevant research   
-- high-level summary of methods and outputs  
+
+* Motivation
+    * Is your project answering a question or solving a task? 
+    * Is your question causal or descriptive?
+    * (Brief) Summary of existing relevant research
+* Datasets identified
+* High-level summary of methods
+* Describe deliverables
+    * How will this be used? Describe a hypothetical user journey.
+        * If a research paper, what will be the policy implications?
 
 **01-28 GitHub Repo**: Share a GitHub repo for your project, with  
 - Raw data in a `raw_data/` directory.  
@@ -114,9 +123,10 @@ Subsequent assignments should be uploaded to GitHub.
 **02-25 Work in Progress Report**: A draft of your project, to be reviewed by two peers. Provide as much analysis as you can, to be able to get proper feedback.
 
 Should include  
+
 - Introduction and motivation.
-- Literature review.  
-- Initial analysis and/or technical implementation.  
+- Literature review.
+- Initial analysis and/or technical implementation.
 
 *These will be presented as Mid-Point Presentations (10 min + 5 min Q&A).*
 

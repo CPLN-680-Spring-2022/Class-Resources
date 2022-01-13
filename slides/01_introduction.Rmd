@@ -9,6 +9,7 @@ output:
 ---
 
 ## Welcome!
+
 - Intro 
 - Syllabus (30 min)
 - *10 minute break*
@@ -39,6 +40,7 @@ The final project is an...
 ---
 
 ## Examples from past years
+
 * Spatial analysis of food safety violations in Philadelphia
 * Spatial methods for heritage preservation
 * Latitudinal shifts of grass plant functional types
@@ -49,6 +51,7 @@ The final project is an...
 ---
 
 ## Project components
+
 * Final deliverable.
 * Presentation to the class.
 * Complete GitHub repository* with raw data, processed data, outputs.
@@ -68,6 +71,7 @@ This course will use GitHub as its primary site.
 ---
 
 ## Course time
+
 * Working groups on projects
 * Student presentations
 * External speakers, "Anatomy of a project"
@@ -82,25 +86,28 @@ My approach to programming is practical.
 - You only ever need "good enough," and there will always be someone more expert.
 - You will see enormous gains (errors, iteration speed) by improving your engineering 20%.
 - Push yourself in reasonable directions for final project.
+- The most important thing is to overcome 0 $\rightarrow$ 1, teach you how to learn for yourself.
 
 ---
 
 ## A survey
 
-Do you plan on using...  
-- ESRI  
-- R  
-- Python    
-- Something else  
+Do you plan on using... 
+
+- ESRI
+- R
+- Python
+- Something else
 
 ---
 
 ## A survey
 
 What is your familiarity with...  
-- Git & GitHub  
-- Command line  
-- Spatial Econometric methodologies (e.g. "autoregression")  
+
+- Git & GitHub
+- Command line
+- Spatial Econometric methodologies (e.g. "autoregression")
 
 What other GIS topics would you like to learn?
 
@@ -109,8 +116,9 @@ What other GIS topics would you like to learn?
 ## A survey
 
 How confident are you in your idea for project?  
+
 1 - Not confident at all.  
-5 - I know exactly what I want to do.  
+5 - I know exactly what I want to do.
 
 ---
 
@@ -144,7 +152,7 @@ The calendar is aggressive at the beginning to discover blockers.
 
 ## Assignments
 
-**syllabus.md** will be source of truth.
+**syllabus.Rmd** will be source of truth.
 
 TBD how to submit assignments; either GitHub, Canvas, or email.
 
@@ -159,6 +167,7 @@ Sign up on Calendly: https://calendly.com/jtannen/office-hours
 ---
 
 ## Grading
+
 - Final Project 50%
 - Final Presentation 25%
 - Assignments & Participation 25%
@@ -166,6 +175,7 @@ Sign up on Calendly: https://calendly.com/jtannen/office-hours
 --- 
 
 ## Next Week
+
 - Due: Project Proposal 0
 - In class: GitHub
 
@@ -180,10 +190,8 @@ Sign up on Calendly: https://calendly.com/jtannen/office-hours
 
 In groups of three...
 
-- 15 min: Overview your project
-  - What is the question you're trying to answer?
-  - What data sources are available?
-  - What is your most important next step?
+- 15 min: Overview your projects
+    - What is the question you're trying to answer?
+    - What data sources are available?
+    - What is your most important next step?
 - In 15 min, come back to this room.
-
-
