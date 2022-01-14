@@ -181,6 +181,24 @@ Sign up on Calendly: https://calendly.com/jtannen/office-hours
 
 ---
 
+## Next Week
+
+**01-21 Project Proposal 0**: Two-page (or less) document with   
+
+* Motivation
+    * Is your project answering a question or solving a task? 
+    * Is your question causal or descriptive?
+    * (Brief) Summary of existing relevant research
+* Datasets identified
+* High-level summary of methods
+* Describe deliverables
+    * How will this be used? Describe a hypothetical user journey.
+        * If a research paper, what will be the policy implications?
+        
+Submit via email, Canvas, or GitHub.
+
+---
+
 ## Questions?
 
 
