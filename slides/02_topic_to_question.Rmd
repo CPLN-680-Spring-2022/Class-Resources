@@ -1,0 +1,11 @@
+---
+title: "From Topic to Question"
+author: Jonathan Tannen
+output: 
+  beamer_presentation:
+    theme: "metropolis"
+    includes:
+      in_header: "preamble.tex"
+---
+
+## From Topic to Question
