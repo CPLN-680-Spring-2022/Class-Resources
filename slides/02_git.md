@@ -14,7 +14,10 @@ A version control system for coordinating work across people and tracking change
 
 *Tons* of resources and tutorials.
 
-- E.g. https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+E.g.
+
+- https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+- Github's extensive documentation and tutorials.
 
 ---
 
@@ -52,6 +55,9 @@ Repeat:
   - `git add .`: Stage *all* changes.  
 - `git commit -m "Informative description here"`: Commit the changes.
 
+----
+
+## and now...
 
 *Demo*
 
@@ -74,7 +80,8 @@ In general...
 - `git push`
 - `git merge`
 
-Some terminology...
+Some terminology...  
+
 - `origin/master`
 
 ---
