@@ -98,7 +98,7 @@ Some terminology...
 Goal:
 
 - A GitHub Repo in our Organization
-- named `lastname_firstname_projectnickname`
+- Named `lastname_firstname_projectnickname`
 - With...
   - A folder `raw_data/` with raw data.
   - A folder (`R`, `py`, `src`, `scripts`) with code to explore the data.
