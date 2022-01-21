@@ -14,6 +14,8 @@ output:
 - Break (0.25 hours)
 - Git & Github (1 hour)
 
+----- 
+
 ## From Topic to Question
 
 How do you take a broad topic, and narrow it down to an answerable question?
@@ -28,7 +30,7 @@ Ask a **question** that solves a **problem** that you can convince readers to ca
 
 Possible question types:
 
-- **Disagreement**: Some people think X, but other people think Y.
+- **Disagreement**: Some people think X, but other people think Y. What's right?
 - **Structure and Composition**: What patterns exist? What typologies?
 - **Claim**: Unmeasured claim about how things work.
 - **Optimization**: Can we do this better?
@@ -49,7 +51,7 @@ Avoid questions that are...
 
 Think about your question and your final product. Will it answer the question? What will skeptics say?
 
-- Is your question to broad to have an "answer"?
+- Is your question too broad to have an "answer"?
 - What would the ideal dataset look like?
 - What will a skeptic say?
 - State a possible finding: "I find that an increase of X is correlated with an increase of Y..."
@@ -62,6 +64,20 @@ From Hofman, J.M., Watts, D.J., Athey, S. et al. Integrating explanation and pre
 &nbsp; &nbsp; 
 
 ![](images/hoffman_etal_table.jpg){width=100%}
+
+
+-----
+
+## Some strategies for questions
+
+- Read an existing paper/project and...
+    - Read their extension questions.
+    - Ask if there's a spatial extension.
+        - Use spatial boundaries?
+        - Add distance?
+        - Map residuals?
+- Talk to a subject matter expert and see if there are open optimization problems.
+
 
 
 -----
@@ -91,6 +107,8 @@ Ask your question in the following form...
 
 ## Assignments
 
-- Next week, 1/28: GitHub Repo with raw data.
-- 2/4: Data Summary Analysis and 7-minute Presentations (with 3-minute question).
-- 2/11: Project Proposal 1.
+- 1/28 (next week): GitHub Repo with raw data. We will be *Virtual*.
+- 2/4: Data Summary Analysis and 10-minute presentations (with 5-minute question).
+- 2/11: Project Proposal 1, 2nd set of presentations.
+- 2/25: Midpoint work in progress report & presentations.
+

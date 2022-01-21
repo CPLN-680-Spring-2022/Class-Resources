@@ -57,8 +57,8 @@ Students will present on their projects in the final two sessions of the class.
 |-|---|-----|
 |Jan 14 (Virtual)| Initial Topic Brainstorm | Introduction, Syllabus, Share Topics, Turnout Tracker Presentation |
 |Jan 21 (Virtual)| Project Proposal 0 | Share Project Proposal, Better Engineering: Github |
-|Jan 28| GitHub Repo with initial data | Fay Walker (Urban Institute), Better Engineering: File Organization |
-|Feb 4| Data Summary Analysis | Proposal & Data Summary Presentations A |
+|Jan 28| GitHub Repo with initial data | Fay Walker (Urban Institute) |
+|Feb 4| Data Summary Analysis | Better Engineering: File Organization, Proposal & Data Summary Presentations A |
 |Feb 11| Project Proposal 1 | Michelle Montalvo and Seth Bluestein (Philadelphia City Commissioners Office), Proposal & Data Summary Presentations |
 |Feb 18| --  | Dan Lopez (Office of Innovation and Technology), Better Engineering: System Modularity |
 |Feb 25| Mid-point Work In Progress | Nick Hand (Office of the City Controller), Mid-point Presentations A |
