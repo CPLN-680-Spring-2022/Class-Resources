@@ -41,6 +41,18 @@ E.g.
 
 ## Your local workflow
 
+<center>
+
+![](images/git_workflow.png){width=200}
+
+</center>
+
+from https://kevintshoemaker.github.io/StatsChats/GIT_tutorial.html
+
+---
+
+## Your local workflow
+
 Do once:
 
 - `git init`: Initiates git in whatever folder you're in, and all subfolders.
@@ -84,6 +96,19 @@ Some terminology...
 
 - `origin/master`
 
+--- 
+
+## Your local workflow
+
+<center>
+
+![](images/git_workflow.png){width=200}
+
+</center>
+
+from https://kevintshoemaker.github.io/StatsChats/GIT_tutorial.html
+
+
 ---
 
 ## Git Rules
@@ -115,6 +140,14 @@ Goal:
 - Accept the Invitation to join.
 - Create a new Repo named `lastname_firstname_projectnickname`
 - Link your local repo (see previous slide).
+
+---
+
+## Advanced git
+
+- `.gitignore`
+- `git branch`
+- `git merge`
 
 
 
