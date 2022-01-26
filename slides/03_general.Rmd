@@ -1,0 +1,64 @@
+---
+title: "Class 03"
+author: Jonathan Tannen
+output: 
+  beamer_presentation:
+    theme: "metropolis"
+    includes:
+      in_header: "preamble.tex"
+---
+
+## Agenda
+
+- Presentation: Fay Walker of the Urban Institute
+- Discuss Presentations
+
+---
+
+## Looking Back
+
+Any questions?
+
+- GitHub Setup
+- Projects overall
+
+---
+
+## Looking Ahead
+
+Next Week:
+
+- Better Engineering: File Organization and Modularity
+- Data Presentations
+
+---
+
+## Looking Ahead: Presentations
+
+An exploratory descriptive analysis of your dataset(s). Include summary statistics and visualizations that speak to your research question. All relevant code and files should be in your GitHub repo.
+
+Presentation:
+
+- A 7 minute presentation to your peers (with 3 min questions).
+- Include 
+    - Your question.
+    - Your data sources.
+    - Descriptive statistics, plots and/or maps of your variables.
+    - Open question and most important next steps.
+    
+Presentation, and all data and scripts should be committed to your GitHub repo by midnight, Thursday.
+
+*These can be somewhat informal.*
+
+---
+
+## Looking Ahead: Presentations
+
+I will send out a survey with time sign-ups.
+
+Need two moderators who will...
+
+- Track time of presentations.
+- Handle A/V.
+
+
