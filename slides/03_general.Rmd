@@ -59,19 +59,23 @@ Presentation:
     
 Presentation, and all data and scripts should be committed to your GitHub repo by midnight, Thursday.
 
+---
+
+## Looking Ahead: Presentations
+
 *No write-up necessary.*
 
-***These can be somewhat informal.***
+***These can be work-in-progress.***
 
 ---
 
 ## Looking Ahead: Presentations
 
-Peers will ask: 
+Peers will be asked to ask: 
 
 - Is the question clear, answerable, and implicating?
 - What risks do you see in the next steps? What should be de-risked?
-- Give one thing that is well done, and one area of growth.
+- What's one thing that is well done, and one area of growth?
 
 ---
 
