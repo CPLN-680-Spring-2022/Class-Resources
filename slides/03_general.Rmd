@@ -31,6 +31,10 @@ Next Week:
 - Better Engineering: File Organization and Modularity
 - Data Presentations
 
+
+**In Person!**
+
+
 ---
 
 ## Looking Ahead: Presentations
@@ -48,7 +52,19 @@ Presentation:
     
 Presentation, and all data and scripts should be committed to your GitHub repo by midnight, Thursday.
 
-*These can be somewhat informal.*
+*No write-up necessary.*
+
+***These can be somewhat informal.***
+
+---
+
+## Looking Ahead: Presentations
+
+Peers will ask: 
+
+- Is the question clear, answerable, and implicating?
+- What risks do you see in the next steps? What should be de-risked?
+- Give one thing that is well done, and one area of growth.
 
 ---
 
@@ -61,4 +77,12 @@ Need two moderators who will...
 - Track time of presentations.
 - Handle A/V.
 
+
+---
+
+## Looking Ahead: Class
+
+Need speakers for March and April!
+
+Will send out a form for you to (a) suggest people, (b) request topics.
 
