@@ -24,6 +24,13 @@ Any questions?
 
 ---
 
+## Note: Large File Storage
+
+https://towardsdatascience.com/uploading-large-files-to-github-dbef518fa1a
+
+
+---
+
 ## Looking Ahead
 
 Next Week:
