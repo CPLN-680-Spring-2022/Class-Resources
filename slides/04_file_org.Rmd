@@ -53,9 +53,9 @@ Not working harder. Working smarter.
 1. Download raw data
 2. Clean it by hand
 3. Gigantic script that reshaped the data, ran analysis, generated plots.
-  a. Hard-coded assumptions hidden everywhere including settings, file locations, dates. 
-  a. Saves a bunch of plots. Prints output.
-4. Write report by hand.
+    a. Hard-coded assumptions hidden everywhere including settings, file locations, dates. 
+    a. This would often break. Only way to check was post-hoc, or error debugging.
+4. Write report by hand. Copy numbers from printed output.
 
 ---
 
@@ -99,13 +99,16 @@ Suppose you get next year's raw data, but the format has changed.
 
 All you need to do is munge the data to the same format as the last clean output!
 
-The expectations are simple and well-defined.
+This format means
+
+a. The expectations are clear.
+a. You won't accidentally mix in assumptions later on.
 
 ---
 
-## Raw Data
+## A note
 
-**Keep your raw data in a separate file. You *never* modify this directly.**
+None of this is language specific, or even specific to coding.
 
 ---
 
@@ -131,8 +134,27 @@ The expectations are simple and well-defined.
 1. Copying text from an output to a report.
 1. Running scripts in the right order.
 
+---
+
+## Raw Data
+
+**Rule 2a**: Keep your raw data in a separate file. You *never* modify this directly.
 
 ---
+
+## Confident Automation
+
+Produce plots and outputs that make you confident in the results.
+
+- Counts of data.
+- Means and distributions.
+- Maps and summary plots.
+- (Eventually) Unit tests.
+
+What do you look at when something goes wrong? Automate that!
+
+---
+
 
 ## Zooming out
 
@@ -144,14 +166,10 @@ Don't be overwhelmed! Do better than yesterday. Your future self will thank you.
 
 There will always be human interaction needed. But ask yourself, what's the current bottleneck of my time? The current riskiest part if someone else tried to run this?
 
+
 ---
 
-## Confident Automation
+## And now...
 
-Produce plots and outputs that make you confident in the results.
+**Live Demo!**
 
-- Counts of data.
-- Means and distributions.
-- Maps and summary plots.
-
-What do you look at when something goes wrong? Automate that!
