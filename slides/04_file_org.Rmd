@@ -16,6 +16,19 @@ output:
 
 ---
 
+## Better Engineering?
+
+Code is for *humans*.
+
+Good code:
+
+- Is easy to understand and navigate.
+- Is obvious how to extend.
+- Minimizes time needed to make a change.
+- Minimizes opportunity for mistakes.
+
+---
+
 ## Today: Data Cleaning and File Organization
 
 Inspired by:
@@ -134,6 +147,8 @@ None of this is language specific, or even specific to coding.
 1. Copying text from an output to a report.
 1. Running scripts in the right order.
 
+Ask yourself: "As I work through this, what is manual? How many clicks are required?"
+
 ---
 
 ## Raw Data
@@ -173,3 +188,48 @@ There will always be human interaction needed. But ask yourself, what's the curr
 
 **Live Demo!**
 
+
+--- 
+## Presentations
+
+- A 7 minute presentation (with 3 min questions).
+- Include 
+    - Your question.
+    - Your data sources.
+    - Descriptive statistics, plots and/or maps of your variables.
+    - Open question and most important next steps.
+
+Viewers: Please help them make progress!
+
+- Is the question clear, answerable, and implicating?
+- What risks do you see in the next steps? What should be de-risked?
+- What's one thing that is well done, and one area of growth?
+
+---
+
+## Presentations
+
+* 10 minute break.
+* Presentations for 1 hour.
+* See you back here at XX:XX
+
+- Group A: Here
+- Group B: Room 323
+
+![](images/presentation_groups.jpg)
+
+---
+
+## Presentation Debrief
+
+1. What did you learn from someone else's presentation?
+1. What good feedback did you get?
+1. What are your next open questions?
+1. Any common themes across projects?
+
+---
+
+## Next week
+
+1. Presentation from Seth Bluestein and Michelle Montalvo!
+1. Second batch of presentations.
