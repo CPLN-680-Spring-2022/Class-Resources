@@ -1,5 +1,5 @@
 ---
-title: "File Organization"
+title: "Better Engineering: File Organization"
 author: Jonathan Tannen
 output: 
   beamer_presentation:
@@ -190,6 +190,7 @@ There will always be human interaction needed. But ask yourself, what's the curr
 
 
 --- 
+
 ## Presentations
 
 - A 7 minute presentation (with 3 min questions).
@@ -198,6 +199,12 @@ There will always be human interaction needed. But ask yourself, what's the curr
     - Your data sources.
     - Descriptive statistics, plots and/or maps of your variables.
     - Open question and most important next steps.
+
+
+
+--- 
+
+## Presentations
 
 Viewers: Please help them make progress!
 
