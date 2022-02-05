@@ -59,14 +59,14 @@ Students will present on their projects in the final two sessions of the class.
 |Jan 21 (Virtual)| Project Proposal 0 | Share Project Proposal, Better Engineering: Github |
 |Jan 28| GitHub Repo with initial data | Fay Walker (Urban Institute) |
 |Feb 4| Data Summary Analysis | Better Engineering: File Organization, Proposal & Data Summary Presentations A |
-|Feb 11| Project Proposal 1 | Michelle Montalvo and Seth Bluestein (Philadelphia City Commissioners Office), Proposal & Data Summary Presentations |
-|Feb 18| --  | Dan Lopez (Office of Innovation and Technology), Better Engineering: System Modularity |
-|Feb 25| Mid-point Work In Progress | Nick Hand (Office of the City Controller), Mid-point Presentations A |
-|Mar 4| Feedback for 2 peer projects | Mid-point Presentations B |
+|Feb 11| -- | Michelle Montalvo and Seth Bluestein (Philadelphia City Commissioners Office), Proposal & Data Summary Presentations B|
+|Feb 18| Project Proposal 1 | Dan Lopez (Office of Innovation and Technology), Better Engineering: System Modularity |
+|Feb 25| -- | Nick Hand (Office of the City Controller), Working Groups |
+|Mar 4| Mid-point Work In Progress | Working Groups |
 |Mar 11| *Spring Break* |  |
-|Mar 18| -- | Better Engineering: Code Review |
-|Mar 25| Peer Code Review |  |
-|Apr 1| -- |  |
+|Mar 18| -- | Better Engineering: Code Review, Mid-point Presentations A |
+|Mar 25| Feedback for 2 peer projects | Mid-point Presentations B |
+|Apr 1| Peer Code Review |  |
 |Apr 8| -- |  |
 |Apr 15| Final Presentation (1) |  |
 |Apr 22| Final Presentation (2) |  |
@@ -127,21 +127,21 @@ Presentation:
     - Descriptive statistics, plots and/or maps of your variables.
     - Open question and most important next steps.
 
-**02-11 Project Proposal 1**: An update of Project Proposal 0, with motivating data summary. This may just be a concatenated version of your Proposal 0 and Data Analysis, but your question and deliverable may have changed.
+**02-18 Project Proposal 1**: An update of Project Proposal 0, with motivating data summary. This may just be a concatenated version of your Proposal 0 and Data Analysis, but your question and deliverable may have also changed.
 
-**02-25 Work in Progress Report**: A draft of your project, to be reviewed by two peers. Provide as much analysis as you can, to be able to get proper feedback.
+**03-18 Work in Progress Report**: A draft of your project, to be reviewed by two peers. Provide as much analysis as you can, to be able to get proper feedback.
 
 Should include  
 
 - Introduction and motivation.
-- Literature review.
+- Short literature review.
 - Initial analysis and/or technical implementation.
 
 *These will be presented as Mid-Point Presentations (10 min + 5 min Q&A).*
 
-**03-04 Peer Feedback**: Peer review of two projects. Review goals include: Project design, implementation review, extension ideas.
+**03-25 Peer Feedback**: Peer review of two projects. Review goals include: Project design, implementation review, extension ideas.
 
-**03-25 Code Review**: Code/implementation review of one peer project. We will discuss this in class.
+**04-01 Code Review**: Code/implementation review of one peer project. We will discuss this in class.
 
-**04-29 (TBD) Final Project**
+**04-29 Final Project**: See accompanying expectations.
  
