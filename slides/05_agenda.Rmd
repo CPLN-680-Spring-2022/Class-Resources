@@ -57,3 +57,13 @@ Rule 2: Find differences that make a difference.
 - Compare differences in space and time.
 
 Exercise from class 2: Write a possible finding for your research. Does it answer your question? Is it compelling?
+
+----
+
+## Feedback from survey
+
+- Working time for troubleshooting.
+- Lecture on GIS methods.
+  - Survey forthcoming.
+  
+
