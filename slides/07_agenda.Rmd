@@ -1,0 +1,59 @@
+---
+title: "Class 07"
+author: Jonathan Tannen
+output: 
+  beamer_presentation:
+    theme: "metropolis"
+    includes:
+      in_header: "preamble.tex"
+fontsize: 8pt
+---
+
+## Agenda
+
+- Anatomy of a Project: Nick Hand, director of the Finance, Policy, and Data, Office of the City Controller
+- *10 minute break*
+- Working Groups
+- Causality
+
+---
+
+## Looking Ahead
+
+Next Week: Mid-point Draft Due (in GitHub).
+
+Should include...
+
+- Introduction and motivation.
+- Clear definition of your question.
+- Short literature review.
+- Initial analysis and/or technical implementation.
+
+Can be work in progress. Flag what your next steps are.
+
+I'm looking for substantial technical progress. This will mean different things for each of you.
+
+---
+
+## Looking Ahead
+
+- Next Week, 03-04: Mid-point Draft Due (in GitHub).
+- 03-11 Spring Break
+- 03-18 Mid-Point Presentations A
+- 03-25 Review of two peer projects, Mid-Point Presentations B
+
+---
+
+## Working Groups
+
+- A: GIS data wrangling in ArcMap
+- B: GIS data wrangling in Python/R
+- C: Building Interactive Tools / Markdown
+- D: Using APIs / web tools
+- E: Research question & statistical methods
+
+Break into groups of 3-5.
+
+Each person gets 10 minutes to discuss and actively debug.
+
+---

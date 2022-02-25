@@ -1,0 +1,21 @@
+\frametitle{Unit testing libraries}
+\protect\hypertarget{unit-testing-libraries}{}
+\begin{itemize}
+\tightlist
+\item
+  R: \texttt{testthat}
+\item
+  Python: \texttt{unittest}
+\end{itemize}
+
+Good unit tests\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  Test base use cases
+\item
+  Test edge cases
+\item
+  Test settings (treatment of NAs, missing)
+\end{itemize}

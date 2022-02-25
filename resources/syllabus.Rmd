@@ -60,7 +60,7 @@ Students will present on their projects in the final two sessions of the class.
 |Jan 28| GitHub Repo with initial data | Fay Walker (Urban Institute) |
 |Feb 4| Data Summary Analysis | Better Engineering: File Organization, Proposal & Data Summary Presentations A |
 |Feb 11| -- | Michelle Montalvo and Seth Bluestein (Philadelphia City Commissioners Office), Proposal & Data Summary Presentations B|
-|Feb 18| Project Proposal 1 | Dan Lopez (Office of Innovation and Technology), Better Engineering: System Modularity |
+|Feb 18| Project Proposal 1 | Dan Lopez (Office of Innovation and Technology), Better Engineering: Code Modularity, Working Groups |
 |Feb 25| -- | Nick Hand (Office of the City Controller), Working Groups |
 |Mar 4| Mid-point Work In Progress | Working Groups |
 |Mar 11| *Spring Break* |  |
@@ -129,7 +129,7 @@ Presentation:
 
 **02-18 Project Proposal 1**: An update of Project Proposal 0, with motivating data summary. This may just be a concatenated version of your Proposal 0 and Data Analysis, but your question and deliverable may have also changed.
 
-**03-18 Work in Progress Report**: A draft of your project, to be reviewed by two peers. Provide as much analysis as you can, to be able to get proper feedback.
+**03-04 Work in Progress Report**: A draft of your project, to be reviewed by two peers. Provide as much analysis as you can, to be able to get proper feedback.
 
 Should include  
 
@@ -137,7 +137,7 @@ Should include
 - Short literature review.
 - Initial analysis and/or technical implementation.
 
-*These will be presented as Mid-Point Presentations (10 min + 5 min Q&A).*
+*These will be presented as Mid-Point Presentations (10 min + 5 min Q&A) on March 18.*
 
 **03-25 Peer Feedback**: Peer review of two projects. Review goals include: Project design, implementation review, extension ideas.
 
