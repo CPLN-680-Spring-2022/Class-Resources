@@ -11,7 +11,7 @@ fontsize: 8pt
 
 ## Agenda
 
-- Anatomy of a Project: Nick Hand, director of the Finance, Policy, and Data, Office of the City Controller
+- Anatomy of a Project: Nick Hand, director of Finance, Policy, and Data, Office of the City Controller
 - *10 minute break*
 - Working Groups
 - Causality
