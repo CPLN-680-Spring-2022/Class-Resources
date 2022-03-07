@@ -1,5 +1,6 @@
 ---
 output: pdf_document
+urlcolor: blue
 ---
 
 # MUSA Capstone: Advanced Topics in GIS
@@ -65,8 +66,8 @@ Students will present on their projects in the final two sessions of the class.
 |Mar 4| Mid-point Work In Progress | Working Groups |
 |Mar 11| *Spring Break* |  |
 |Mar 18| -- | Better Engineering: Code Review, Mid-point Presentations A |
-|Mar 25| Feedback for 2 peer projects | Mid-point Presentations B |
-|Apr 1| Peer Code Review |  |
+|Mar 25| Feedback for 2 peer projects | Spatial Regression Models, Mid-point Presentations B |
+|Apr 1| Peer Code Review | Megan Todd (Philadelphia Dept of Public Health) |
 |Apr 8| -- |  |
 |Apr 15| Final Presentation (1) |  |
 |Apr 22| Final Presentation (2) |  |
@@ -76,7 +77,7 @@ Students will present on their projects in the final two sessions of the class.
 Office hours will be by appointment. They can be in person or by video chat.
 
 Wednesdays from 6pm - 8pm  
-Location TBD  
+Location: Zoom (link will be generated at sign-up)  
 Sign-up: https://calendly.com/jtannen/office-hours  
 
 ### Grading
@@ -139,9 +140,22 @@ Should include
 
 *These will be presented as Mid-Point Presentations (10 min + 5 min Q&A) on March 18.*
 
-**03-25 Peer Feedback**: Peer review of two projects. Review goals include: Project design, implementation review, extension ideas.
+**03-25 Peer Feedback**: Peer review of two projects. 
+
+Your review should be 1-2 pages, and provide helpful feedback for the author. The following questions may be useful:
+
+- Is the question clearly stated and well motivated?
+- Does the data analysis help you understand the context?
+- Are the methods clearly defined?
+- Are the data and methods well-designed to answer the question? Any gaps?
+- What would be a good extension for the analysis?
+- What would be a good extension for the presentation?
+- How is the structure of the paper? Any advice for structuring it?
+
+You can use [the requirements for the final project](https://github.com/CPLN-680-Spring-2022/Class-Resources/blob/main/resources/final_project.pdf) as aadditional guidance.
+
 
 **04-01 Code Review**: Code/implementation review of one peer project. We will discuss this in class.
 
-**04-29 Final Project**: See accompanying expectations.
+**04-29 Final Project**: See the [project requirements]((https://github.com/CPLN-680-Spring-2022/Class-Resources/blob/main/resources/final_project.pdf).
  
