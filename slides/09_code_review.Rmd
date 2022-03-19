@@ -14,12 +14,13 @@ fontsize: 8pt
 
 - Code Review
 - Mid-Point Presentations
+- Regroup, looking ahead
 
 ---
 
 ## Looking Ahead
 
-Next Week: Peer Review of two projects.
+Next Week: Peer Review of two projects, Presentations, Spatial Regressions.
 
 April 1: Code Review (or Implementation Review) for two projects. Phila Dept of Public Health Presenting.
 
@@ -143,7 +144,6 @@ Clone the directory. Open the file. Try to understand the analyses and systems.
 
 10 minutes + 5 min Q&A
 
-Room A: Here  
-Room B: 323
+**Today: All one room!**
 
 ![](images/midpoint_presentations.jpg)

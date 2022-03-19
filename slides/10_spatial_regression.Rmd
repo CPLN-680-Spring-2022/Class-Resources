@@ -1,0 +1,39 @@
+---
+title: "Class 10: Spatial Regression"
+author: Jonathan Tannen
+output: 
+  beamer_presentation:
+    theme: "metropolis"
+    includes:
+      in_header: "preamble.tex"
+# classoption: "handout"
+fontsize: 8pt
+---
+
+## Agenda
+
+- Spatial Regressions
+- Mid-Point Presentations
+
+---
+
+## Looking Ahead
+
+Next Week: Code Review (or Implementation Review) for two projects. Phila Dept of Public Health Presenting.
+
+April 8: World Resources Institute Presenting.
+
+April 15/22: Final Presentations
+
+April 29: Final Project Due
+
+---
+
+## Spatial Regressions
+
+Consider the linear regression equation:
+
+$$Y = X\beta + \epsilin$$
+
+
+---
