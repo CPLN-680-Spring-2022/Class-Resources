@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.23)  19 MAR 2022 08:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.23)  19 MAR 2022 09:51
 entering extended mode
 **./10_spatial_regression.tex
 (10_spatial_regression.tex
@@ -1467,7 +1467,7 @@ File: ts1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ] [3
 
 ]
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 141
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 174
 .
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmss.fd"
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1476,57 +1476,107 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 141.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 174.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 141
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 174
 .
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 141
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 174
 .
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 141.
+(Font)              <8> on input line 174.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 141.
+(Font)              <6> on input line 174.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 141.
-LaTeX Font Info:    Try loading font information for U+msa on input line 141.
+(Font)              <5> on input line 174.
+LaTeX Font Info:    Try loading font information for U+msa on input line 174.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 141.
+LaTeX Font Info:    Try loading font information for U+msb on input line 174.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 141.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 174.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 141.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 174.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 141.
-! Undefined control sequence.
-\beamer@doifinframe ...ar \[Y = X\beta + \epsilin 
-                                                  \] \end {beamer@frameslide}
-l.141 \end{frame}
-                  
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 174.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 174.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 174.
+[4
+
+]pdfTeX warning (ext4): destination with the same identifier (name{spatial-regr
+essions}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.174 \end{frame}
+                  [5
+
+]pdfTeX warning (ext4): destination with the same identifier (name{spatial-regr
+essions}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.174 \end{frame}
+                  [6
+
+] [7
+
+]pdfTeX warning (ext4): destination with the same identifier (name{spatial-regr
+essions-1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.190 \end{frame}
+                  [8
+
+] [9
+
+] [10
+
+]pdfTeX warning (ext4): destination with the same identifier (name{what-is-your
+-unit-of-analysis}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.237 \end{frame}
+                  [11
+
+] [12
+
+]pdfTeX warning (ext4): destination with the same identifier (name{estimating-c
+oefficients}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.260 \end{frame}
+                  [13
+
+]
+! Argument of \frame has an extra }.
+<inserted text> 
+                \par 
+l.273   \(\hat{Cov}_W(\epsilon_i, \epsilon_j)}
+                                               / \hat{Cov(epsilon)}\) 
 Here is how much of TeX's memory you used:
- 26394 strings out of 493333
- 493887 string characters out of 3139162
- 571052 words of memory out of 3000000
- 29306 multiletter control sequences out of 15000+200000
- 53694 words of font info for 78 fonts, out of 3000000 for 9000
+ 26519 strings out of 493333
+ 496659 string characters out of 3139162
+ 575052 words of memory out of 3000000
+ 29388 multiletter control sequences out of 15000+200000
+ 61822 words of font info for 94 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,13n,83p,1884b,536s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,13n,97p,1884b,536s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
