@@ -29,6 +29,18 @@ April 29: Final Project Due
 
 ---
 
+## High-Level notes from Mid-Points
+
+- Use the Literature Review to help the reader understand why your topic is important.
+  - Include the *findings* of the papers.
+- Do a lot explaining the *why* behind your methods.
+  - What is the purpose of your controls?
+  - What is the challenge in your risk score?
+- Include a lot more summary stats and overall plots of your data.
+  - Don't jump into regression too soon! 
+
+---
+
 ## Spatial Regressions
 
 Consider the linear regression equation:
@@ -116,7 +128,7 @@ Once we fit this model, is there evidence that $Cov(\epsilon_i, \epsilon_j)$ dep
 
 - **Variogram**: Plot the covariance between values as a function of distance.
 
-- **Moran's I**: $\hat{Cov}_W(\epsilon_i, \epsilon_j)} / \hat{Cov(epsilon)}$
+- **Moran's I**: $\hat{Cov}_W(\epsilon_i, \epsilon_j) / \hat{Cov(epsilon)}$
 
 ---
 
@@ -172,8 +184,33 @@ Solution: Methods that simultaneously check and remove autocorrelation.
 
 - Simultaneous Auto Regression (SAR) and Conditional Auto Regression methods. 
 - package `spatialreg` in R.
+
   
+---
 
+## Crime in Philadelphia (McClellan 2022)
 
+![](images/crime_plots.png){width=80%}
 
+- Is there spatial autocorrelation?
+- Is there omitted variable bias?
+- How should we control spatial unobserved features?
 
+\pause
+
+$$
+crime = \alpha + \beta_0 anygame + \beta_1 homegame * anygame + \beta_2 Z + \epsilon
+$$
+
+---
+
+## Demo
+
+---
+
+## Mid-Point Presentations
+
+Room A: Here
+Room B: 323
+
+![](images/midpoiunt_schedule_20220325.jpg)
