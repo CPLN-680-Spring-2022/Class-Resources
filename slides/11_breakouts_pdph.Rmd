@@ -1,0 +1,51 @@
+---
+title: "Class 11: Philadelphia Dept of Public Health"
+author: Jonathan Tannen
+output: 
+  beamer_presentation:
+    theme: "metropolis"
+    includes:
+      in_header: "preamble.tex"
+# classoption: "handout"
+fontsize: 8pt
+---
+
+## Agenda
+
+- Breakout Sessions
+- Philadelphia Chronic Disease & Injury Prevention Data Lab
+
+---
+
+## Looking Ahead
+
+Today: Code Review (or Implementation Review) for two projects. Phila Dept of Public Health Presenting.
+
+April 15/22: Final Presentations
+  
+- https://docs.google.com/spreadsheets/d/1PCr3a7puvOfxHFlq1nROO9i8ycNIsqmVhzAMlJXi5LA/edit#gid=0   
+
+April 29: Final Project Due
+
+---
+
+## Breakout Sessions
+
+a. Data Scraping & Automation  
+a. Spatial Regression / Analysis  
+a. Dashboard Building  
+a. Python Questions  
+a. R Questions  
+a. ESRI Questions  
+
+
+---
+
+## Philadelphia Department of Public Health
+
+**PhilaStats**
+
+from the
+
+Division of Chronic Disease and Injury Prevention's DataLab
+

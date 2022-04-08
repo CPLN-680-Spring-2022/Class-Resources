@@ -51,8 +51,8 @@ $$Y = X\beta + \epsilon$$
 - $\epsilon$ contains all unobserved variables not in $X$.
 - Estimation requires the following (strong) assumptions...
   - $E[\epsilon | X] = 0$ 
-    - aka $\epsilon$ is not independent of $X$.
-    - Introduces "Omitted Variable Bias". \pause
+    - aka $\epsilon$ is independent of $Y$, given $X$.
+    - If not, "Omitted Variable Bias". \pause
   - $Cov(\epsilon_i, \epsilon_j) = 0$
     - When this is due to $i$ and $j$ being close, this is spatial autocorrelation.
     - You actually have fewer observations than you think.
@@ -62,6 +62,8 @@ $$Y = X\beta + \epsilon$$
 ## Spatial Regressions
 
 Consider an example: Trying to predict the sales price of a house.
+
+![](images/ppsf_phila.jpg){width=50%}
 
 $$Y = X\beta + \epsilon$$
 
